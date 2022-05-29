@@ -18,11 +18,11 @@
 
         h. Rotate an array by k times
   
-https://github.com/AgnesLily2772/April-10-Task/blob/main/Task1.js
+https://github.com/NANDIMANDALAM-SUNNY/ZENCLASS-TASK/blob/main/30-4-2022--Day-5/Task1.js
 
 2. https://medium.com/@reach2arunprakash/guvi-zen-class-javascript-warm-up-programming-problems-15973c74b87f
+https://github.com/NANDIMANDALAM-SUNNY/ZENCLASS-TASK/blob/main/30-4-2022--Day-5/Task2.js
 
-https://github.com/AgnesLily2772/April-10-Task/blob/main/Task2.js
 
 3. Do the below programs in arrow functions
 
@@ -35,5 +35,5 @@ https://github.com/AgnesLily2772/April-10-Task/blob/main/Task2.js
         d. Return all the prime numbers in an array
 
         e. Return all the palindromes in an array
+https://github.com/NANDIMANDALAM-SUNNY/ZENCLASS-TASK/blob/main/30-4-2022--Day-5/Task3.js
 
-https://github.com/AgnesLily2772/April-10-Task/blob/main/Task3.js
