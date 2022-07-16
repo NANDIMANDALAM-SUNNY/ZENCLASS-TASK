@@ -1,0 +1,90 @@
+body{
+    background-color: #000000 !important;
+    width: 100vw !important;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+    overflow-x: hidden;
+}
+.backgroundColor{
+    background-color: #000000 !important;
+    width: 100vw !important;
+}
+
+.navbar-nav{
+    margin-left: 300px !important;
+    margin-top: 30px !important;
+}
+
+/* heading author */
+.authorMain{
+    margin-top: 250px !important;
+    margin-bottom: 250px !important;
+}
+/* heading author ends */
+
+
+/* about section */
+.aboutMain{
+    margin-top: 150px !important;
+    background-color: white !important;
+    width: 100vw !important;
+}
+.aboutMaincol{
+    margin-top: 75px;
+}
+.col1{
+    padding-left: 150px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.col2{
+    padding-left: 50px;
+}
+.buttons{
+    margin-bottom: 50px !important;
+    padding-bottom: 100px;
+    /* center items */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttonred{
+    border: 1px solid #f2f2f2;
+    color: #000000;
+    padding: 10px;
+    border-radius: 5px;
+    margin-right: 10px;
+    width: 200px;
+}
+.buttonred span{
+    padding-left: 10px;
+    font-size: 20px;
+}
+/* about section ends */
+
+/* Award Section */
+.awardMain{
+    background-color: #fffcfc;
+    margin-top: 30px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.awardscol{
+    padding-top: 30px;
+}
+
+/* movielist */
+.movielistmain{
+    background-color: #fffcfc;
+    padding-top: 30px;
+    padding-bottom: 100px;
+}
+.movielist{
+    padding-top: 30px;
+    padding-bottom: 30px;
+   
+}
+
