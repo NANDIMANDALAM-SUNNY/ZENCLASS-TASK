@@ -1,0 +1,10 @@
+body{
+  margin: 0;
+}
+.row,.container{
+  margin-right: 0px !important;
+}
+.discription{
+  padding: 100px !important;
+
+}
