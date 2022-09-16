@@ -1,4 +1,4 @@
-Task – * The rating according to value given * Disable add to cart button when added to card * Remove item from cart & enable add to cart https://startbootstrap.com/previews/shop-homepage
+Task - https://startbootstrap.com/previews/sb-admin-2 value from component need to show to other component
 
 Github repo : https://github.com/NANDIMANDALAM-SUNNY/ZENCLASS-TASK/tree/main/27-05-2022--Day-23
 
