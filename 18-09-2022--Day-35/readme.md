@@ -2,4 +2,4 @@
  
 TASK : Mentor and Student Assigning with Database
 
-deployed link : https://silver-hamster-3cdab8.netlify.app/
+deployed link : https://guvi-task-35.netlify.app/
