@@ -6,6 +6,11 @@ const {mongodb,dbName,dburl,mongoClient} = require('../dbConnection')
 const client = new mongoClient(dburl,{ useUnifiedTopology: true}, { useNewUrlParser: true });
 
 
+router.get('/',function(req,res) {
+  res.sendFile(__dirname + '/index.html');
+});
+
+
 router.get('/mentors',async (req,res)=>{
   await client.connect();
   try{
@@ -179,7 +184,5 @@ router.post('/addstudents',async (req,res)=>{
   }
 })
 
-
-
-
 module.exports = router;
+
