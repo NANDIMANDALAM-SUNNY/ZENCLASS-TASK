@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+.main{
+  background: #675AFE !important;
+}
+  .select-box img{
+    max-width: 21px;
+  }
+  .form-select{
+    border: none !important;
+    padding: 0px !important;
+    height: 45px !important;
+    width: 120px !important;
+  }
+  .fa-exchange-alt{
+    color: green;
+  }
