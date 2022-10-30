@@ -1,6 +1,6 @@
 
 const mongodb = require('mongodb');
-const dbName = 'authentication';
+const dbName = 'forgot-password';
 const dburl = `mongodb+srv://sunny:sunny@cluster0.ck6j4.mongodb.net/${dbName}?retryWrites=true&w=majority`;
 const mongoClient = mongodb.MongoClient
 
