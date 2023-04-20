@@ -16,6 +16,8 @@ This is a Node.js task where we need to handle all the neccessary routes and per
 
 
 
+List of all booked rooms- https://hall-booking-nodejs-viex.onrender.com/rooms
+
 
 ## Authors
 
